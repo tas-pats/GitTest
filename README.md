@@ -21,6 +21,7 @@ List the main features or functionalities of your project. You can include bulle
 - Feature 1
 - Feature 2
 - Feature 3
+- Feature 4
 
 ## Installation
 
